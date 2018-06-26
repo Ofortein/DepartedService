@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png"
   },
@@ -911,6 +911,27 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "NOTE: The views displayed on this page are that of Oriel Fortein with excerpts from an article on www.nac.org website. The purpose of this website by Oriel Fortein is mainly to spread the Gospel of Christ as understood by Oriel Fortein. All videos displayed is from youtube and copyrights belong to those who posted and created it.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-17"
         }
       ]
     }
