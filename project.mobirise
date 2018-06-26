@@ -543,7 +543,7 @@
               "active": true,
               "src": "https://www.youtube.com/watch?v=xdgkESNx6SY&feature=youtu.be&list=RDQp4MjHWZS5c",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
@@ -552,7 +552,7 @@
               "size": 0
             }
           },
-          "title": "Pass me not O gentle Saviour",
+          "title": "Pass me not, O gentle Saviour",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>\"Heal my wounded broken spirit. Save me from my grief\"</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
@@ -892,7 +892,7 @@
               "active": true,
               "src": "https://www.youtube.com/watch?v=mCsBih7Kyfw",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false
             },
             "iconFont": {
